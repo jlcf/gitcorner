@@ -1,0 +1,13 @@
+DEBUTER avec GitHub:
+
+Ressources et pointeurs sur le web :
+
+
+- démarrer un dépôt Git :
+	http://git-scm.com/book/fr/Les-bases-de-Git-D%C3%A9marrer-un-d%C3%A9p%C3%B4t-Git
+
+- Comment débuter avec GitHub :
+	http://blog.humancoders.com/comment-debuter-avec-git-et-github-7/
+
+- Git tutorials and training :
+	https://www.atlassian.com/git
