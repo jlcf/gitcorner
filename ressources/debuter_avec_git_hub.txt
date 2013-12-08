@@ -11,3 +11,7 @@ Ressources et pointeurs sur le web :
 
 - Git tutorials and training :
 	https://www.atlassian.com/git
+
+- Git Immersion :
+	http://gitimmersion.com
+	"Git Immersion est une visite guidée qui se promène dans les bases de Git"
